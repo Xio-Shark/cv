@@ -1,0 +1,7 @@
+# DCT图像压缩实验依赖库
+# 使用方法: pip install -r requirements.txt
+
+numpy>=1.20.0
+opencv-python>=4.5.0
+matplotlib>=3.3.0
+
